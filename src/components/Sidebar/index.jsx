@@ -16,7 +16,7 @@ const Sidebar = () => {
             link: '/anggota'
         },
         {
-            name: 'Data Barang',
+            name: 'Barang',
             icon: <BsSuitcaseLg />,
             link: '/barang'
 
